@@ -1,0 +1,25 @@
+{
+  "name": "github_actions_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Hello from build!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maton369/GitHub_Actions_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maton369/GitHub_Actions_Practice/issues"
+  },
+  "homepage": "https://github.com/maton369/GitHub_Actions_Practice#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
